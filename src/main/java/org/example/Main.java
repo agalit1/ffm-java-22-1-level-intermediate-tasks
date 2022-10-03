@@ -18,7 +18,7 @@ public class Main {
             Task 4: write a program which receives words from user and saves them to an array
          */
         Scanner scan = new Scanner(System.in);
-        int MAX_LENGTH = 10;
+        int MAX_LENGTH = 5;
         String[] array = new String[MAX_LENGTH];
 
         System.out.println("Enter words:");
